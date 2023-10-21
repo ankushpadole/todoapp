@@ -9,7 +9,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
-  "engines": ">=14.20.1",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "author": "ankush",
   "license": "ISC",
   "dependencies": {
